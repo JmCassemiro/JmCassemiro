@@ -37,10 +37,7 @@ Gosto de entender o "porquê" por trás das soluções e aplicar conceitos sóli
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30"/></a>
   <a href="https://git-scm.com/doc" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30"/></a>
-  <a href="https://learning.postman.com/docs/" title="Postman"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30"/></a>
   <a href="https://developer.android.com/studio" title="Android Studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="30"/></a>
-  <a href="https://playwright.dev/docs/intro" title="Playwright"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="30"/></a>
-  <a href="https://docs.cypress.io/" title="Cypress"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="30"/></a>
 </p>
 
 #### Bancos de Dados
@@ -52,6 +49,14 @@ Gosto de entender o "porquê" por trás das soluções e aplicar conceitos sóli
   <a href="https://neo4j.com/docs/" title="Neo4j"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" width="30"/></a>
   <a href="https://cassandra.apache.org/doc/latest/" title="Cassandra"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" width="30"/></a>
   <a href="https://redis.io/docs/" title="Redis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="30"/></a>
+</p>
+
+#### Teses Automatizados
+
+</p>
+<a href="https://learning.postman.com/docs/" title="Postman"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30"/></a>
+<a href="https://docs.cypress.io/" title="Cypress"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="30"/></a>
+<a href="https://playwright.dev/docs/intro" title="Playwright"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="30"/></a>
 </p>
 
 #### Frameworks
