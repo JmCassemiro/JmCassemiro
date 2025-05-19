@@ -63,6 +63,9 @@ Gosto de entender o "porquê" por trás das soluções e aplicar conceitos sóli
 
 <p>
   <a href="https://flask.palletsprojects.com/en/latest/" title="Flask"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="30"/></a>
+  <a href="https://docs.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30"/></a>
+  <a href="https://docs.djangoproject.com/en/stable/" title="Django"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="30"/></a>
+
 </p>
 
 ---
